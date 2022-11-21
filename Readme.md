@@ -1,0 +1,1 @@
+# Interval map data structure
